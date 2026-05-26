@@ -67,6 +67,9 @@ public:
                 FRONT = 0;
             else
                 FRONT = FRONT + 1;
+        
         }
     }
-};  
+
+    void display()
+  
